@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sales Website</title>
+
+    <link rel="untitledsheet" href="untitled.css" title="" type="" />
+
+    <link rel="untitledsheet" href="untitled.css" title=" Khan Bhai" type="" />
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+
+        header {
+
+            background-color: #333;
+
+            color: #fff;
+
+            padding: 20px;
+
+            text-align: center;
+
+        }
+
+        h1 {
+
+            margin: 0;
+
+        }
+
+        nav {
+
+            background-color: #f4f4f4;
+
+            padding: 10px;
+
+        }
+
+        nav ul {
+
+            list-style-type: none;
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+
+        nav ul li {
+
+            display: inline;
+
+        }
+
+        nav ul li a {
+
+            color: #333;
+
+            padding: 10px;
+
+            text-decoration: none;
+
+        }
+
+        section {
+
+            padding: 20px;
+
+            text-align: center;
+
+        }
+
+        footer {
+
+            background-color: #333;
+
+            color: #fff;
+
+            padding: 20px;
+
+            text-align: center;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Sales Website</h1>
+
+    </header>
+
+    <nav>
+
+        <ul>
+
+            <li><a href="#">Home</a></li>
+
+            <li><a href="#">Products</a></li>
+
+            <li><a href="#"><details> <summary>Created by</summary> <p>Parvej Khan</p>
+
+            </details>
+
+            </div>
+
+            </a></li>
+
+            <li><a href="">Contact</a></li>
+
+        </ul>
+
+    </nav>
+
+    <section>
+
+        <h2>Welcome to My Website</h2>
+
+        <p> I am Mo Parvej Khan. This simple website is made by using HTML and CSS. I Just Learnt the HTML and CSS simple coding
+
+        .</p>
+
+         
+
+        <p> Basic Intro About Myself👇</p>
+
+        I live in Dehradun But i am from Navadiya Nawazpur, Shahjahanpur, Uttar Pradesh India.
+
+         I am Doing Bachelor of Pharmacy From G.I.S.I.P.S Dehradun 
+
+         
+
+        <p> <b>Contact Me </b> </p>- </p> email id:- pka48004@gmail.com</p>
+
+        Mobile No:- 8953865486
+
+        please Write Few Words for my small work on html .
+
+        </p>THANK YOU ❤️</p>
+
+        </p>LOVE YOU ❤️.</p>
+
+    </section>
+
+    <footer>
+
+        <p>&copy; 2023 Sales Website. All rights reserved.</p>
+
+    </footer>
+
+</body>
+
+</html>
